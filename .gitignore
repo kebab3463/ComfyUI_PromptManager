@@ -214,3 +214,6 @@ coverage/
 
 # Old library files a Move library renamed (never deleted; #249 S6b)
 *.moved-to-*
+
+
+.archive/
